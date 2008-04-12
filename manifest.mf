@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.ikonoklastik.nbmodules.merbprojects
+OpenIDE-Module-Localizing-Bundle: com/ikonoklastik/nbmodules/merbprojects/Bundle.properties
+OpenIDE-Module-Requires: org.netbeans.api.javahelp.Help
+OpenIDE-Module-Specification-Version: 1.0
+
