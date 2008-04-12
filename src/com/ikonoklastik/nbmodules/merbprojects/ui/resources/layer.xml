@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.1//EN" "http://www.netbeans.org/dtds/filesystem-1_1.dtd">
+<filesystem>
+    <folder name="Templates">
+        <folder name="Ruby">
+            <file name="newMerbProject">
+                <attr name="SystemFileSystem.localizingBundle" stringvalue="com.ikonoklastik.nbmodules.merbprojects.Bundle"/>
+                <attr name="instantiatingIterator" newvalue="com.ikonoklastik.nbmodules.merbprojects.NewMerbProjectWizardIterator"/>
+                <attr name="template" boolvalue="true"/>
+                <attr name="templateWizardURL" urlvalue="nbresloc:/com/ikonoklastik/nbmodules/merbprojects/newMerbProject.html"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>
